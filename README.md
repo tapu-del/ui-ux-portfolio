@@ -25,9 +25,5 @@ Minimal chatbot UI for AI conversations.
 - Penpot (free design tool)
 - AI tools for ideas
 
-## 📫 Contact
-- LinkedIn: [your profile link]
-- GitHub: github.com/ramesh-designs
-
 ## 🌱 Status
 Still learning. Still building. Slow and steady.
